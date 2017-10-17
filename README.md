@@ -1,0 +1,2 @@
+# odoo
+Primeras pruebas odoo
